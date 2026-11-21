@@ -1,8 +1,8 @@
 # LPS Master Prepper List
 
-This is a product guide for disaster preparedness supplies, organized by where you'd keep them: the go bag first, then the home, then the car, followed by situational gear and bigger purchases. A few items appear in more than one place, since the bag and the house each need their own. Note that food and clothing are not covered here!
+This is a primarily product guide for disaster preparedness supplies, organized by where you'd keep them: the go bag first, then the home, then the car, followed by situational gear and bigger purchases. (A few items appear in more than one place, since the bag and the house each need their own.) We'll also cover a few non-product topics (get to know your neighbors!) at the end of this guide. Note that food and clothing are not covered here.
 
-Each item in this guide has one to three picks:
+Each item in this guide has one to three product suggestions:
 
 - Top pick: The overall best option, though it may be pricey.
 - Mid pick: A balance of quality and cost-effectiveness.
@@ -12,7 +12,7 @@ Not every product uses all three tiers. For some items, the top pick is already 
 
 Most product links go to Amazon or Walmart. Prices change often; a \~ marks an estimate that wasn't checked against a current listing.
 
-Note: Most of this document was written by Claude, and many of the products are Claude's recommendations. Claude was asked to favor established, time-tested products, and based its picks on retailer listings and published reviews; the LPS team has checked them.
+Note: Most of this document was written by Claude, and many of the products are Claude's recommendations. Claude was asked to favor established, time-tested products, and based its picks on retailer listings and published reviews. The LPS team has reviewed Claude's picks, though may not be able to personally vouch of them.
 
 ## Tags
 

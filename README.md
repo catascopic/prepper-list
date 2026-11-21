@@ -838,6 +838,6 @@ This one is controversial, and I don't feel like I have much of an opinion on it
 
 ---
 
-Further reading: https://firstscattering.com/p/a-busy-persons-guide-to-disaster#footnote-anchor-30
+Further reading: [A Busy Person’s Guide to Disaster Preparation](https://firstscattering.com/p/a-busy-persons-guide-to-disaster)
 
 It's a great article in its own right, but it also discusses the pros and cons of buying a gun.

@@ -1,6 +1,6 @@
 # LPS Master Prepper List
 
-This is a primarily product guide for disaster preparedness supplies, organized by where you'd keep them: the go bag first, then the home, then the car, followed by situational gear and bigger purchases. (A few items appear in more than one place, since the bag and the house each need their own.) We'll also cover a few non-product topics (get to know your neighbors!) at the end of this guide. Note that food and clothing are not covered here.
+This is primarily a product guide for disaster preparedness supplies, organized by where you'd keep them: the go bag first, then the home, then the car, followed by situational gear and bigger purchases. (A few items appear in more than one place, since the bag and the house each need their own.) We'll also cover a few non-product topics (get to know your neighbors!) at the end of this guide. Food and clothing get only short rules of thumb, without product picks.
 
 Each item in this guide has one to three product suggestions:
 
@@ -46,7 +46,7 @@ Last updated Nov 21, 2026. A wave of emergency buying followed the mid-November 
 - **Solar power stations** (Big purchases). If sold out: a smaller station from any established brand, power banks for phones and lights, or the car kit's inverter with the engine running outdoors.
 - **Generators** (Big purchases). If sold out: a power station, or wait for restocks rather than paying inflated prices. Whatever you get, run it outdoors only, at least 20 ft from windows and doors.
 - **Water purification tablets** (Go bag → Water). If sold out: plain unscented bleach (8 drops per gallon of clear water, then wait 30 minutes), or boil water for 1 minute.
-- **Emergency food such as MREs** (on the separate food list). If sold out: ordinary canned and dry groceries you already eat.
+- **Emergency food such as MREs** (Home essentials → Food). If sold out: ordinary canned and dry groceries you already eat.
 
 ### Likely to sell out (Claude's analysis)
 
@@ -84,6 +84,7 @@ Everything you carry if you have to leave. Pack compact or travel-size versions 
 - **Water storage**
   - Top pick: [Platypus SoftBottle](https://www.amazon.com/Platypus-SoftBottles-with-Closure-Cap/dp/B00ZX0ERE2) (1L or 2L). A 20-year-old design that rolls up flat when empty; its standard threads fit the Sawyer Squeeze. **$15** \[Lindy\]
   - Mid pick: a 1L Smartwater bottle, the backpacker's classic: light, tough, and its threads fit Sawyer filters. Use it with the pouches that come with the Sawyer. **\~$2** \[Schelling\] \[Pareto\]
+- **Food:** pack 3 days of no-cook food, about 2,000 calories per person per day. Ration bars such as Datrex or SOS keep about 5 years and need no water to prepare. See Home essentials → Food for the rule of thumb.
 
 ### Light
 
@@ -184,6 +185,16 @@ Standardize on USB-C where you can, so one cable type and the power bank charge 
 - **Disposable rain ponchos**
   - Top pick: [Frogg Toggs Ultra-Lite2 Poncho](https://www.walmart.com/ip/46519912). Reusable rather than disposable, breathable, with a hood and side snaps; packs down small. **$13–22** \[Pareto\]
   - Low pick: a multipack of disposable plastic ponchos. Fine for one storm; they tear on branches and pack straps. **\~$1 each**
+
+### Clothing
+
+Rules of thumb rather than product picks, since clothes depend on size, climate and taste.
+
+- **One full change of clothes,** packed in a dry bag or zip-top bag. Choose wool or synthetics, not cotton: cotton stays wet and pulls heat out of you, while wool and synthetics keep you warm even when damp. Long sleeves and long pants double as cleanup clothes.
+- **Extra socks: 2–3 pairs of wool.** Wet feet cause blisters and misery faster than almost anything else. Darn Tough wool socks come with a lifetime guarantee and are the default pick among hikers (\~$25 a pair).
+- **A warm layer** (fleece or puffy jacket), plus a hat and gloves in cold seasons.
+- **Sturdy, broken-in shoes.** You may have to walk a long way, and new boots give you blisters.
+- **Swap the bag's clothes twice a year** for the season, and check kids' sizes, since they outgrow them fast.
 
 ### Tools & repair
 
@@ -338,6 +349,16 @@ What sheltering in place needs beyond the bag, for a couple of weeks without uti
 - **Funnel and tubing (for water only)**
   - Top pick: a food-grade collapsible silicone funnel set [Prep Solutions 2-piece](https://www.walmart.com/ip/14119015174) plus 10 ft of food-grade tubing, 3/8–1/2" inside diameter (narrower tubing siphons slowly). Gets water from jugs, buckets, a rain barrel or the waterBOB into bottles, pots and the gravity filter bag without spilling. Label both "WATER", never use them for fuel, and store them clean in a zip-top bag. **\~$20 total** \[Pareto\]
 
+### Food
+
+A rule of thumb rather than product picks.
+
+- **How much:** about 2,000 calories per adult per day; more for active adults or anyone clearing debris (up to about 3,000), less for small children.
+- **How long:** the Red Cross guideline is 3 days of food for evacuation and 2 weeks at home.
+- **What to store:** shelf-stable food you already eat, rotated into normal meals so nothing expires: "store what you eat, eat what you store."
+- **Mind the water:** food that needs cooking water eats into your water supply. Rice, pasta and freeze-dried meals all need it (a freeze-dried meal takes about 2 cups), while canned food brings its own water. Salty food makes you thirstier. If water is tight, lean toward canned and no-cook food.
+- **Pets:** count their food and water too.
+
 ### Light & power
 
 - **Flashlights / headlamps (one per person)**
@@ -358,6 +379,7 @@ What sheltering in place needs beyond the bag, for a couple of weeks without uti
   - Top pick: Kelty Cosmic 20. A long-running, well-reviewed down bag that's warm to about 20°F and packs small enough to grab. **\~$150–200** \[Lindy\]
   - Mid pick: a Coleman 0°F mummy bag. Heavy and bulky, but very warm for a bag that mostly lives in a closet. **\~$60–80** \[Pareto\]
 - Blankets
+- Warm clothes to wear indoors: wool socks, base layers and a hat. Without heat, dressing warmly does more than any device.
 - **Indoor-safe propane heater and fuel (only with a CO detector nearby)**
   - Top pick: [Mr. Heater Portable Buddy (MH9BX)](https://www.walmart.com/ip/55234301). The best-selling portable propane heater for decades; 4,000 or 9,000 BTU, heats up to about 225 sq ft, with automatic low-oxygen and tip-over shutoffs. Runs on 1-lb cylinders or a hose to a 20-lb tank. Keep a window cracked. **$70–110** \[Lindy\] \[Schelling\]
   - Mid pick: Mr. Heater Little Buddy (3,800 BTU). Same safety shutoffs, for a single small room. **$60–70**
@@ -726,7 +748,7 @@ Useful mainly if you already hunt or fish, or plan to learn; gear without the sk
 
 ### Growing & preserving food
 
-This is about producing and storing food rather than stockpiling it (the stockpile is on the separate food list). A garden takes a season or two to learn, and canning has real food-safety rules, so start before you need either.
+This is about producing and storing food rather than stockpiling it (the stockpiling rule of thumb is under Home essentials → Food). A garden takes a season or two to learn, and canning has real food-safety rules, so start before you need either.
 
 - Seeds that store well and grow in your climate (open-pollinated varieties can be saved year to year)
 - Basic garden tools: spade, hoe, rake, hose or watering can
@@ -834,7 +856,8 @@ Nothing to buy here, but the gear depends on it.
 - Take a first aid and Stop the Bleed class (the tourniquet and hemostatic gauze need practice)
 - Find and label the gas, water and electric shutoffs
 - Sign up for local emergency alerts
-- Set a reminder every six months to rotate water, medications and batteries
+- Set a reminder every six months to rotate water, medications and batteries, and to swap the go bag's clothes for the season
+- Keep sturdy shoes and a flashlight by each bed; after an earthquake or storm, the floor may be covered in broken glass
 - Pick a family code word, so you can tell a real call for help from an AI voice clone; share it in person rather than in writing
 - Write a one-page trigger sheet: what would make you stay home and what would make you leave, where you'd go (a friend's or relative's place outside the area), two driving routes and a bike route there
 - Walk your evacuation route once carrying the loaded go bag, to learn how long it takes and whether the bag is too heavy

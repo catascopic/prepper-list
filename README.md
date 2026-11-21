@@ -1,28 +1,36 @@
 # LPS Master Prepper List
 
-The household's master list of disaster preparedness supplies: what to have, where it lives, and which products to buy.
+This is a product guide for disaster preparedness supplies, organized by where you'd keep them: the go bag first, then the home, then the car, followed by situational gear and bigger purchases. A few items appear in more than one place, since the bag and the house each need their own. Note that food and clothing are not covered here!
 
-The lists are organized by where things live. The go bag stays packed and ready to grab. The home lists assume the go bag is in the house, so they repeat a bag item only where home needs its own full-size supply. After those come the car kit, situational gear, big purchases, and other categories worth considering. Food and clothing are tracked on a separate list.
+Each item in this guide has one to three picks:
 
-Most items have product picks, favoring established, time-tested products with a balance of price and quality. Each has a top pick; a mid pick and a low pick (the cheapest option that still works, with its trade-off named) appear only where they make sense. Items without picks are grocery or drugstore basics where any brand works.
+- Top pick: The overall best option, though it may be pricey.
+- Mid pick: A balance of quality and cost-effectiveness.
+- Low pick: The ultra-budget option that still (probably) works well enough.
 
-Prices are US street prices and change often; a \~ marks an estimate that wasn't checked against a current listing. Linked prices were last checked on Nov 18, 2026, mostly against Walmart.
+Not every product uses all three tiers. For some items, the top pick is already cheap enough, or there aren't any good substitutes that you'd want to rely on in an emergency. Generic items that you can buy at a grocery store or pharmacy (e.g. soap, garbage bags) aren't given specific picks and don't use the tier system.
 
-## How to read the tags
+Most product links go to Amazon or Walmart. Prices change often; a \~ marks an estimate that wasn't checked against a current listing.
 
-- **\[Lindy\]** is about time: the product has been around for decades, and things that have lasted a long time tend to keep lasting. It says nothing about price or whether the design is still the best.
-- **\[Schelling\]** is about salience: it's the default people land on without coordinating, the one everyone recommends. Its value comes partly from that: easy to find, lots of accessories and advice, and spares or parts other people can share.
-- **\[Pareto\]** is about value per dollar: most of what the best option does, for much less money. It's the knee of the price curve, where spending more stops buying much.
+Note: Most of this document was written by Claude, and many of the products are Claude's recommendations. Claude was asked to favor established, time-tested products, and based its picks on retailer listings and published reviews; the LPS team has checked them.
+
+## Tags
+
+Products can have any combination of the "LPS" tags: Lindy, Pareto, and Schelling, which represent three ideals when selecting a product. Don't take these tags too seriously; they're mostly just for fun.
+
+- **\[Lindy\]** is about time: the product has been around for decades, and things that have lasted a long time tend to keep lasting. It says nothing about price or whether the design is still the best. Further reading: [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect)
+- **\[Pareto\]** is about value per dollar: most of what the best option does, for much less money. It's the knee of the price curve, where spending more stops buying much. Further reading: [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
+- **\[Schelling\]** is about salience: it's the default people land on without coordinating, the one everyone recommends. Its value comes partly from that: easy to find, lots of accessories and advice, and spares or parts other people can share. Further reading: [Schelling point](https://en.wikipedia.org/wiki/Focal_point_(game_theory))
 
 The eight possible combinations of these three tags, each with an example:
 
 - **No tags: Morakniv Garberg.** The top fixed-blade pick and an excellent knife, but it only came out in 2016, the Mora most people name is the cheap Companion, and it costs about six times as much. Plenty of good picks carry no tags; they're just good at their job. The bad version: a "200-piece survival kit" from an unknown brand, which is new, nobody's default, and poor value once you notice most of the pieces are filler.
 - **\[Lindy\] only: Fisher Space Pen.** Sold since the 1960s and still excellent, but it's a niche pick and costs far more than a pencil that also writes on wet paper. The bad version: the Maglite, in police cars and kitchen drawers since 1979 with the same basic design. It's heavy, runs on D cells, and is far dimmer than a modern LED light half its size, so it's neither the current default nor good value.
-- **\[Schelling\] only: Energizer Ultimate Lithium.** The default battery for gear that sits in storage for years, but it costs several times as much as alkalines. The bad version: the LifeStraw, the water filter everyone has heard of. You can only drink through it, not fill a bottle or cook with it, and it isn't old enough to be Lindy.
 - **\[Pareto\] only: Wurkkos FC11C.** Brighter, better-colored light than lights costing three times as much, for about $20. But the brand is only a few years old, and most people outside flashlight forums haven't heard of it. The bad version: a cheap open-frame generator from a little-known brand, which gives about twice the watts per dollar of an inverter generator. But it's loud enough to hear down the block, burns through fuel quickly, and its rougher power can damage sensitive electronics.
-- **\[Lindy\] + \[Schelling\]: Honda EU2200i.** Honda's quiet inverter generators have been the reference for decades and are what most people recommend. But a Champion does most of the job for about half the price, so it isn't the value pick.
+- **\[Schelling\] only: Energizer Ultimate Lithium.** The default battery for gear that sits in storage for years, but it costs several times as much as alkalines. The bad version: the LifeStraw, the water filter everyone has heard of. You can only drink through it, not fill a bottle or cook with it, and it isn't old enough to be Lindy.
 - **\[Lindy\] + \[Pareto\]: JanSport backpack.** Made the same simple way since the 1970s, cheap, with a lifetime warranty. But it isn't what people name for a go bag; that's usually a pack with a hip belt.
-- **\[Schelling\] + \[Pareto\]: Sawyer Squeeze.** The default backpacking filter and cheap for what it does. It has only been around for a bit over a decade, so it isn't Lindy yet.
+- **\[Lindy\] + \[Schelling\]: Honda EU2200i.** Honda's quiet inverter generators have been the reference for decades and are what most people recommend. But a Champion does most of the job for about half the price, so it isn't the value pick.
+- **\[Pareto\] + \[Schelling\]: Sawyer Squeeze.** The default backpacking filter and cheap for what it does. It has only been around for a bit over a decade, so it isn't Lindy yet.
 - **All three: BIC lighter.** Sold since 1973, the lighter everyone grabs by default, and about the most reliable fire you can buy for a dollar or two.
 
 One more tag works differently: **\[Endorsed\]** marks a product the LPS team has bought and used. 
@@ -55,7 +63,7 @@ Last updated Nov 21, 2026. A wave of emergency buying followed the mid-November 
 
 Everything you carry if you have to leave. Pack compact or travel-size versions where they exist (a small soap, a wrap of duct tape around a water bottle).
 
-### Bag
+### The Bag
 
 - **Backpack**
   - Top pick: [Osprey Farpoint 40](https://ascentoutdoors.com/collections/packs/products/osprey-farpoint-40) (Fairview 40 is the women's fit). Panel-loading travel pack with a real hip belt, so it carries a full load on foot; sized for carry-on; lifetime All Mighty Guarantee. Often about $140 on sale. **$140–185** \[Schelling\]

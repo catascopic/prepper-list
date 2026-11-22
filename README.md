@@ -799,14 +799,32 @@ Recovery often costs more than the supplies. Money and paperwork decide how fast
 
 ### Digital resilience
 
-A cyberattack can lock you out of accounts, encrypt your files or take down the services you rely on. Several defenses are elsewhere in this list: cash and spare bank accounts, paper copies of documents and two-factor backup codes, hardware security keys, the family code word, an unplugged backup drive, and an air-gapped reference laptop (under Home extras → Power & electronics). Beyond those:
+A cyberattack can lock you out of accounts, encrypt your files or take down the services you rely on. Several defenses are elsewhere in this list: cash and spare bank accounts, paper copies of documents and two-factor backup codes, hardware security keys, the family code word, an unplugged backup drive, and an air-gapped reference laptop (under Home extras → Power & electronics).
 
+**Start here (one afternoon).** These four steps cover most of the risk for most people:
+
+- Turn on automatic updates on your phone, computer and browser
+- Use a password manager, and turn on two-factor authentication for your email and bank first; email is the key to resetting everything else, so protect it best (a security key if you have one, an authenticator app if not)
+- It's much safer to write your passwords down than to use the same password everywhere! Just make sure to keep your physical password list somewhere safe. Ideally a literal safe, but at least keep it in your home and out of plain sight.
+- Back up your photos and important files to an external drive once a month, and unplug it afterward
+- Call your phone carrier, or use its app, to set an account PIN and turn on port-out or number-lock protection; it takes about ten minutes and blocks "SIM swap" attacks, where someone takes over your number to steal your two-factor codes
+
+**Going further:**
+
+- A credit freeze at Equifax, Experian and TransUnion; it's free, takes about half an hour, and stops anyone from opening accounts in your name after a data breach
 - An offline copy of your password manager, such as its emergency kit or an encrypted export, kept in the safe or on the air-gapped laptop, in case the service is down or you're locked out
 - Downloaded copies of your cloud data (photos, email, documents) through Google Takeout, iCloud's data export and similar tools, in case you lose an account or a provider goes down
-- Phone carrier protection: an account PIN and port-out or number-lock protection, which block "SIM swap" attacks where someone takes over your number to steal your two-factor codes
-- A credit freeze at Equifax, Experian and TransUnion; it's free and stops anyone from opening accounts in your name after a data breach
 - Manual fallbacks for smart-home devices: learn the garage door's manual release, keep physical keys for smart locks, and know how your thermostat behaves without the internet
-- Everyday hygiene: automatic updates on all devices, a changed router password, and Signal for private messaging
+- A changed router password, and Signal for private messaging
+
+**Getting data onto an air-gapped computer.** Every transfer is a chance to bring malware across, which is how air-gapped systems are usually infected. None of these methods is completely safe, but each lowers the risk:
+
+- **QR Codes:** In development. I'm working on a way to transfer small files by encoding the data into a QR code, or a sequence of codes. You will literally be able to see every bit in transit (for all the good it will do you, as a human). If nothing else, it will give you a tangible sense of how much data you're sending.
+- **Burn write-once discs** (CD-R, DVD-R or Blu-ray BD-R) on your connected computer and finalize them, so they can't be changed afterward. The air-gapped computer can only read them, and a disc has no firmware to tamper with. A Blu-ray disc holds 25–100 GB, so large files such as offline Wikipedia may need a high-capacity disc or splitting across several. An external USB DVD burner costs about $25–35 and a Blu-ray burner about $80–120; keep it just for this. **\~$25–120 for the drive, plus discs**
+- **Or use a dedicated USB drive with a hardware write-protect switch,** used for nothing else, and flip it to read-only before plugging it into the air-gapped computer.
+- **Verify every file** against the checksum its publisher posts (Kiwix publishes them for its Wikipedia files, for example) before you burn it. If your connected computer is compromised, it can alter files before they ever reach the disc, and the checksum is how you'd catch that.
+- **Prefer simple file types:** plain text, offline Wikipedia and map files, and PDFs from sources you trust. Avoid executables, scripts and Office documents with macros. When you must install software, download it from the official site and check its signature or checksum.
+- **Turn off autorun and autoplay** on the air-gapped computer, so nothing on a disc or drive runs on its own when inserted.
 
 ### Medical beyond first aid
 

@@ -494,6 +494,7 @@ Load offline content while you still have internet, and recharge or test devices
 - **Laptop (a low-power one runs longer on a power bank or power station)**
   - Top pick: an Apple MacBook Air (M-series), new or refurbished. Very low power draw, all-day battery and USB-C charging from a power bank. **\~$600–1,000** \[Schelling\]
   - Mid pick: a used Lenovo ThinkPad T480. A built-in battery plus a swappable rear one (get the large 72Wh rear battery) for long runtime, USB-C charging from the power bank, and easy home repairs and upgrades with parts everywhere. A full computer that works offline for Kiwix, PDFs, maps and Linux. Used units usually have worn batteries, so budget for a new rear battery from a reputable seller, and update the BIOS and Thunderbolt firmware right away to prevent a known USB-C charging fault. Draws more power than a MacBook Air and is too slow for anything but small local AI models. **\~$150–250 used** \[Schelling\] \[Pareto\]
+  - Tip: make a spare laptop (such as a used T480) an air-gapped reference machine that never connects to a network, so ransomware, wipers and bad updates can't reach your offline library. On many laptops, including the T480, the Wi-Fi and Bluetooth card is a small removable module; take it out, and disable the Ethernet port in the BIOS. Load content from one dedicated USB drive, the usual way air-gapped machines get infected, and never connect it "just once" for an update. Turn on full-disk encryption (BitLocker, or LUKS on Linux) in case it's lost or stolen, keep a second copy of its content on an unplugged external drive, and store it about half charged, topping it up every few months.
 - **Offline Wikipedia (Kiwix app, on the laptop and phones)**
   - Top pick: [Kiwix](https://kiwix.org) with a full English Wikipedia file (about 100 GB with images; much smaller text-only). **Free** \[Pareto\]
 - **Offline reference library (first aid, repair manuals, survival guides as PDFs)**
@@ -501,6 +502,7 @@ Load offline content while you still have internet, and recharge or test devices
 - **External hard drive or SSD (backups)**
   - Top pick: [Samsung T7 1TB](https://www.walmart.com/ip/953015472) portable SSD. Small, shock-resistant, hardware-encrypted, USB-C. Memory prices have risen sharply in 2026. **$230–275** \[Schelling\]
   - Mid pick: a WD My Passport or Seagate portable hard drive (2TB). Slower and more fragile if dropped, but far more storage per dollar. **\~$70–100** \[Pareto\]
+  - Keep at least one backup unplugged and update it periodically. Ransomware encrypts any drive attached to the infected computer, so a backup that's always connected isn't safe.
 - **Multimeter**
   - Top pick: [Fluke 101](https://www.amazon.com/Fluke-FLUKE-101-Digital-Multimeter/dp/B00HE6MIJY?crid=GT33GTOJDZ2R). Fluke's basic pocket meter, CAT III 600V safety rated, for checking batteries, outlets and generator output; can't measure current. **$70-77** \[Lindy\]
   - Low pick: [AstroAI Digital Multimeter, TRMS 4000](https://www.amazon.com/dp/B08DHHJPS1). A popular budget meter that handles batteries, continuity, outlets and generator output; true-RMS reads correctly on generator and inverter power, and unlike the Fluke 101 it measures current, so you can see what a device draws from the power station. Budget meters' printed safety ratings are less trustworthy than Fluke's, so keep it to batteries and outlets, not work at the breaker panel. Flimsier probe leads, and it won't last as long. **\~$18-26** \[Pareto\] \[Endorsed\]
@@ -770,7 +772,7 @@ Fun to own and occasionally useful, but nothing here is worth buying for prepare
 
 ## Other topics (beyond stuff to buy)
 
-Many sections here deserve their own comprehensive document. These will at least make a good starting point. Some may not be applicable to you depending on your household, skills, and where you live.
+Many sections here deserve their own comprehensive document, but these will at least give you a good starting point. Some may not be applicable to you depending on your household, skills, and where you live.
 
 ### Community
 
@@ -794,6 +796,17 @@ Recovery often costs more than the supplies. Money and paperwork decide how fast
 - A review of your insurance: standard homeowner's policies usually exclude flood and earthquake
 - Renter's insurance, if you rent
 - Copies of policies and account numbers in the document bag
+
+### Digital resilience
+
+A cyberattack can lock you out of accounts, encrypt your files or take down the services you rely on. Several defenses are elsewhere in this list: cash and spare bank accounts, paper copies of documents and two-factor backup codes, hardware security keys, the family code word, an unplugged backup drive, and an air-gapped reference laptop (under Home extras → Power & electronics). Beyond those:
+
+- An offline copy of your password manager, such as its emergency kit or an encrypted export, kept in the safe or on the air-gapped laptop, in case the service is down or you're locked out
+- Downloaded copies of your cloud data (photos, email, documents) through Google Takeout, iCloud's data export and similar tools, in case you lose an account or a provider goes down
+- Phone carrier protection: an account PIN and port-out or number-lock protection, which block "SIM swap" attacks where someone takes over your number to steal your two-factor codes
+- A credit freeze at Equifax, Experian and TransUnion; it's free and stops anyone from opening accounts in your name after a data breach
+- Manual fallbacks for smart-home devices: learn the garage door's manual release, keep physical keys for smart locks, and know how your thermostat behaves without the internet
+- Everyday hygiene: automatic updates on all devices, a changed router password, and Signal for private messaging
 
 ### Medical beyond first aid
 
@@ -888,6 +901,7 @@ An AI model running on your own computer keeps working without internet. It can 
 - Offline speech-to-text and translation models
 - Offline Wikipedia and the reference library above, which pair well with a local model
 - A test run with the network unplugged, so you know it works offline
+- Consider keeping it on an air-gapped computer, as in the tip under Laptop in Home extras → Power & electronics; a capable machine runs bigger models than an older laptop like the T480
 
 ## Plans & upkeep
 

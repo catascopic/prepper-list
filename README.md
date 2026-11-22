@@ -801,11 +801,11 @@ Recovery often costs more than the supplies. Money and paperwork decide how fast
 
 A cyberattack can lock you out of accounts, encrypt your files or take down the services you rely on. Several defenses are elsewhere in this list: cash and spare bank accounts, paper copies of documents and two-factor backup codes, hardware security keys, the family code word, an unplugged backup drive, and an air-gapped reference laptop (under Home extras → Power & electronics).
 
-**Start here (one afternoon).** These four steps cover most of the risk for most people:
+**Start here:** These steps cover most of the risk for most people.
 
 - Turn on automatic updates on your phone, computer and browser
 - Use a password manager, and turn on two-factor authentication for your email and bank first; email is the key to resetting everything else, so protect it best (a security key if you have one, an authenticator app if not)
-- It's much safer to write your passwords down than to use the same password everywhere! Just make sure to keep your physical password list somewhere safe. Ideally a literal safe, but at least keep it in your home and out of plain sight.
+  - You're always told to never write your passwords down, but it's actually fine in the right circumstances. Just make sure to keep your physical password list somewhere safe; ideally a literal safe, but at least keep it in your home and out of plain sight. It's much safer to write your passwords down than to use the same password everywhere!
 - Back up your photos and important files to an external drive once a month, and unplug it afterward
 - Call your phone carrier, or use its app, to set an account PIN and turn on port-out or number-lock protection; it takes about ten minutes and blocks "SIM swap" attacks, where someone takes over your number to steal your two-factor codes
 

@@ -770,7 +770,7 @@ Fun to own and occasionally useful, but nothing here is worth buying for prepare
 
 ## Other topics (beyond stuff to buy)
 
-Some sections here deserve their own comprehensive document, but I'll do my best to at least provide an outline. Some may not be applicable to you depending on your household, skills, and where you live. Some of these lists will cover additional products to consider buying, but without any specific picks.
+Many sections here deserve their own comprehensive document. These will at least make a good starting point. Some may not be applicable to you depending on your household, skills, and where you live.
 
 ### Community
 

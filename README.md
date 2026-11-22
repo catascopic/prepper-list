@@ -99,7 +99,7 @@ Note that the I, author of this guide, am a huge flashlight enthusiast. If you k
   - Low pick: [Energizer Vision HD Performance Metal](https://www.amazon.com/Energizer-Flashlight-Zoomable-Batteries-Included/dp/B06X9TV75K). A basic metal 2-AA flashlight, about 400 lumens, sold at Walmart and hardware stores with batteries included. Cheap enough to put one in every drawer and car; plainer and less durable than the Pokelit, with no rechargeable option. **\~$13** \[Pareto\]
 - **Flashlight (lithium-ion)**
   - Top pick: [Wurkkos TS27](https://www.amazon.com/Wurkkos-TS27-Rechargeable-Flashlights-Bidirectional/dp/B0G2BN9GRG). A hefty light (about 22 cm and 1.3 lb) that 1Lumen rated 5 stars and measured at about 3,300 lumens with a beam reaching roughly 850 m. A selector ring around the side switch also turns it into a lantern, so one light covers both jobs, plus RGB colored modes. It runs on a large 15,000 mAh LiFePO4 cell (a safer, longer-lasting chemistry than standard lithium-ion), charges a phone as a power bank, and has a tripod mount; rated waterproof (IPX8). Brightness ramps smoothly rather than in fixed steps, so runtimes are hard to predict, and spare 32140 cells are an unusual size and cost more. **\~$60–90**
-  - Mid pick: [Wurkkos FC11C](https://wurkkos.com/products/wurkkos-fc11c-nichia-519a-buck-circuit-flashlight). 1,200 lumens, high-CRI Nichia 519A, USB-C charging, magnetic tail; the light enthusiasts most often recommend to non-enthusiasts. Pocket-size on a single 18650, at a fraction of the TS27's size and price; pack a charged spare cell. **$20** \[Pareto\] \[Endorsed\]
+  - Mid pick: [Wurkkos FC11C](https://wurkkos.com/products/wurkkos-fc11c-nichia-519a-buck-circuit-flashlight). 1,200 lumens, high-CRI Nichia 519A, USB-C charging, magnetic tail; the light enthusiasts most often recommend to non-enthusiasts. Pocket-size on a single 18650, at a fraction of the TS27's size and price; pack a charged spare cell. **$20-35** \[Pareto\] \[Endorsed\]
 - **Headlamp (AAA)**
   - Top pick: [Black Diamond Spot 400](https://www.amazon.com/BLACK-DIAMOND-Brightness-dual-fuel-compatibility/dp/B0H1R7G7VN). The Spot line has been a go-to headlamp for nearly 20 years; runs on 3 AAAs or an optional rechargeable; red night mode; IPX8 waterproof. **$41–60** \[Lindy\] \[Schelling\]
   - Low pick: [Energizer Universal 2-pack](https://www.amazon.com/Energizer-Universal-Lightweight-Emergency-Batteries/dp/B08WC2VYMS). Two basic headlamps with a red night mode, about 100 lumens each on AAA batteries (included), so they fit the battery plan; light enough to toss one in every bag and drawer. The head doesn't tilt, so the beam points wherever you're facing, and it's dimmer than the Spot 400. **\~$15 per 2-pack** \[Pareto\]
@@ -893,6 +893,30 @@ Nothing to buy here, but the gear depends on it.
 - Write a one-page trigger sheet: what would make you stay home and what would make you leave, where you'd go (a friend's or relative's place outside the area), two driving routes and a bike route there
 - Walk your evacuation route once carrying the loaded go bag, to learn how long it takes and whether the bag is too heavy
 - Know that the toilet tank (not the bowl) holds a few gallons of clean backup water, unless you use tank-cleaning tablets
+
+### Regrouping without phones
+
+The hard case is an outage that starts while the household is split up: one person at work, the kids at school, and no phone service. Agree on all of this in advance, write it on the trigger sheet, and practice it once.
+
+- **Three meeting places, in order:** just outside the house (for a fire); a nearby spot if you can't get home, such as a school, library or friend's house; and a place outside the area if the neighborhood itself is unsafe.
+- **Default actions,** so nobody has to guess: for example, "if phones are down, go home if it's safe; if you can't, go to meeting place 2."
+- **Fixed check-in times.** If someone isn't at the meeting place, come back at set times (say noon and 6 p.m. each day) rather than waiting there indefinitely.
+- **Leave a note** in an agreed spot, such as inside the front door: who was there, when, and where they went. The Sharpie and waterproof notebook in the go bag work for this.
+- **Know the school's or daycare's reunification plan,** and keep its list of who may pick up your kids current. Schools usually hold children and release them only to listed adults.
+- **Decide who picks up whom:** kids, older relatives and pets.
+- **An out-of-area contact who relays messages.** When local networks are jammed, long-distance calls and texts often still get through, texts more often than calls. Everyone checks in with that one person; the number goes on the wallet card.
+- **A walkie-talkie plan:** a set FRS channel and privacy code for the household.
+- **Walk it once:** how long would each person take to walk home from work or school?
+
+**Family in other states.** When relatives live far away, the question is usually whether to travel to them, and where to meet if you can't reach each other. Settle it in advance:
+
+- **Default to staying put.** Long drives in a crisis mean closed roads, fuel shortages and nowhere to stay. Agree on what would justify traveling (your home is unsafe, a family member needs care, a set number of days with no contact) and what wouldn't.
+- **Pick one fixed destination,** usually one relative's home in a lower-risk area with water, space and supplies, rather than a midpoint. Without phones, a midpoint is just two people guessing.
+- **Travelers come to the destination; the people there stay put,** so nobody crosses paths on the road.
+- **Set a waiting period** before anyone sets out (for example, 72 hours with no contact), so a short outage doesn't send everyone onto the highway.
+- **Plan the trip:** two routes, the paper road atlas in the car kit, where you can get fuel, how far one tank takes you, cash, and a fallback place to stop overnight. Leave a note at home saying where you went.
+- **List backup ways to reach each other,** in order: texts, calls, email, the out-of-area contact, the satellite messenger, and GMRS or ham radio if anyone is licensed.
+- **Agree on "don't come" too.** If everyone at the destination is fine, they should be able to tell travelers to stay home.
 
 ## Self-defense
 

@@ -1,0 +1,51 @@
+FURTHER READING (candidates for the end of the prepper guide)
+
+Mentioned while working on the guide
+------------------------------------
+
+Daniel P. Aldrich, "Building Resilience: Social Capital in Post-Disaster Recovery" (book, University of Chicago Press, 2012)
+  Studies recoveries after disasters including the 1995 Kobe earthquake and Hurricane Katrina. Finds that ties between neighbors predicted how well a community recovered better than money or aid did. Cited in the guide's Community section.
+
+Eric Klinenberg, "Heat Wave: A Social Autopsy of Disaster in Chicago" (book, University of Chicago Press, 2002)
+  The 1995 Chicago heat wave killed hundreds of people. Isolated people died at far higher rates, and neighborhoods where people checked on each other did much better, even when just as poor. Cited in the guide's Community section.
+
+Rebecca Solnit, "A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster" (book, Viking, 2009)
+  Most people respond to disasters with cooperation, not looting, and officials and the media consistently overestimate panic. A readable counterweight to the "everyone turns on each other" assumption.
+
+Jason Hausenloy, "A Busy Person's Guide to Disaster Preparation" (essay, The First Scattering, Nov 16, 2026)
+  https://firstscattering.com/p/a-busy-persons-guide-to-disaster
+  A prioritized to-do list aimed at outages, pandemics and conflict, with a printable trigger sheet. Several additions to the guide came from it.
+
+Already referenced in the guide
+-------------------------------
+
+David Werner and others, "Where There Is No Doctor" (book, Hesperian; free download)
+  Health care when help isn't coming. Named in the home first aid kit entry.
+
+American Red Cross, "First Aid/CPR/AED Participant's Manual"
+  Named in the home first aid kit entry.
+
+US Army, "Survival" (FM 21-76) (field manual, public domain)
+  Named under Offline reference library.
+
+Ready.gov, "Make a Plan" family emergency plan template
+  https://www.ready.gov/plan
+  Linked from Money & important documents.
+
+Other suggestions (not yet mentioned in the guide)
+--------------------------------------------------
+
+Amanda Ripley, "The Unthinkable: Who Survives When Disaster Strikes, and Why" (book, Crown, 2008)
+  How people actually behave in the first minutes of a disaster: freezing, denial and slow reactions are common, and practice and planning make a real difference. Supports the guide's emphasis on trigger sheets and drills.
+
+Laurence Gonzales, "Deep Survival: Who Lives, Who Dies, and Why" (book, W. W. Norton, 2003)
+  The psychology of survival in wilderness accidents: why experienced people make fatal mistakes, and what survivors do differently.
+
+Lee Clarke and Caron Chess, "Elites and Panic: More to Fear than Fear Itself" (academic paper, Social Forces, 2008)
+  Coined the idea of "elite panic": in disasters, authorities often fear public panic more than the public actually panics, and act badly as a result. Short and academic; pairs with Solnit.
+
+Murray Dickson, "Where There Is No Dentist" (book, Hesperian; free download)
+  The companion to "Where There Is No Doctor," covering dental care. Fits the temporary filling kit in Medical beyond first aid.
+
+FEMA, "Are You Ready? An In-Depth Guide to Citizen Preparedness" (guide, free PDF)
+  The US government's general preparedness guide, organized by hazard type. Useful for the Local hazards section.

@@ -537,6 +537,8 @@ Pick one cordless battery platform and stick with it, so the same batteries run 
 - **Trash can with a tight lid**
   - Top pick: Rubbermaid Commercial Brute 32-gallon with lid. Nearly indestructible, the lid seals well against animals, and it doubles as a water barrel in a pinch. **\~$35–60 with lid** \[Lindy\] \[Schelling\]
 - Laundry detergent (travel packets or a bar)
+- **Guest toiletry kits (for relatives or neighbors who stay with you)**
+  - Top pick: a multipack of cheap toothbrushes, travel toothpaste, bar soap, small shampoos and disposable razors, bundled into zip-top bags so you can hand someone a complete kit. Hotel-size and travel-size multipacks are cheapest, and everything keeps for years. **\~$20–30 for several kits** \[Pareto\]
 - **Plunger laundry washer (for outages lasting weeks)**
   - Top pick: a plunger-style hand washer used in one of the 5-gallon buckets above. Plunging pushes soapy water through the clothes far better than scrubbing by hand; wring out and hang on the clothesline. Slow, tiring work for anything bigger than a few shirts. **\~$20–30** \[Pareto\]
 - Nail clippers
@@ -707,6 +709,10 @@ Items that solve a specific problem in certain situations or places. Pick the on
   - Mid pick: [Champion 2500W dual-fuel inverter](https://www.lowes.com/reviews/Champion-Power-Equipment-2500W-Dual-Fuel-Portable-Inverter-Generator-2500-Watt-Dual-Fuel-Gasoline-Propane-Inverter-Generator/5016325559). Similar output; runs on gasoline or propane (which stores indefinitely), with automatic CO shutoff. Reviews are mixed (about 3.8 stars on Amazon, 4.7 at Lowe's), with some units failing early or shutting off after a few minutes, usually from low oil, the CO shutoff or stale fuel. Test it under load the day it arrives, while you can still return it; fill the oil on flat ground; store it on propane so the carburetor doesn't gum up; and run it every month or two. **$430–550** \[Pareto\]
 - **Generator transfer switch or interlock (installed by an electrician)**
   - No single product pick: an interlock kit made for your panel brand is the cheapest legal option; a manual transfer switch (Reliance Controls) is the alternative. Never backfeed through a dryer outlet, which can electrocute utility workers. **\~$500–1,500 installed**
+- **Whole-home backup power (installed)**
+  - Top pick: a standby generator (Generac is the brand most people name; Kohler and Briggs & Stratton are the others). Installed outside and wired to the panel through an automatic transfer switch, it starts on its own within seconds of an outage and shuts off when the grid returns. On natural gas it can run for days or weeks, which makes it the best answer for long outages such as ice storms and hurricanes. Needs a permit, yearly maintenance and a weekly self-test (it runs that automatically), and it's loud. In earthquake country, run it on propane from its own tank, since gas lines may be shut off after a quake. Get quotes from licensed installers. **\~$10,000–20,000 installed** \[Lindy\] \[Schelling\]
+  - Alternative: a home battery (Tesla Powerwall, Enphase, Franklin), best paired with solar. Switches over silently and automatically, with no fuel or maintenance, which suits frequent short outages. One unit holds about 13.5 kWh, enough for essentials for a day or so but not central air or electric heat overnight; it gets through a long outage only if solar panels can recharge it. The 30% federal tax credit ended for purchases after 2025, so check for state or utility rebates instead. **\~$12,000–20,000 installed per unit**
+  - Budget route: a portable generator plus the interlock kit above powers the circuits you choose through the panel, for a fraction of the cost; you start it by hand.
 - **Wood stove**
   - Top pick: a Jotul F 100 or similar small EPA-certified cast-iron stove. Jotul has made stoves in Norway since 1853. Before installation. **\~$2,000–3,000** \[Lindy\]
   - Mid pick: an Englander or Drolet EPA-certified steel stove. Heats as well, looks plainer. Before installation. **\~$1,000–1,800** \[Pareto\]
@@ -729,6 +735,22 @@ Items that solve a specific problem in certain situations or places. Pick the on
 - **Pantry shelving**
   - Top pick: Metro (InterMetro) chrome wire shelving, the restaurant-kitchen standard; adjustable and very strong. **\~$150–300 per unit** \[Lindy\] \[Schelling\]
   - Mid pick: Edsal or Husky boltless steel shelving. Holds heavy cans and water jugs fine. **\~$60–120 per unit** \[Pareto\]
+
+## Cool but optional
+
+Fun to own and occasionally useful, but nothing here is worth buying for preparedness alone. Get one only if you really want it, and only after the essentials.
+
+- **Airgun (small game, or practice for a real firearm)**
+  - Top pick: a .22 break-barrel pellet rifle from Gamo, Crosman or Benjamin. Quiet, cheap to shoot and powerful enough for squirrels and rabbits where your state allows airgun hunting (most require a license). Break-barrels take practice to shoot accurately, and they need the same safe handling and backstop as a real gun. **\~$150–250**
+  - Alternative: a Daisy Red Ryder. A BB gun sold since 1940 and too weak for hunting, but a good way to teach kids safe handling and aiming before a real firearm. Wear eye protection, since BBs bounce. **\~$40** \[Lindy\] \[Schelling\] \[Endorsed\]
+- **Crossbow (game hunting)**
+  - No single pick: budget brands such as Barnett and CenterPoint start around $300–500 with a scope; premium ones such as TenPoint run $1,000 or more. Harder to use than it looks: cocking takes real strength or a crank, the string needs waxing and eventual replacement, bolts get lost, and dry-firing can wreck it. You also need a hunting license and your state's season rules. **\~$300–1,500**
+- **Flare gun (on the water)**
+  - No single pick: a 12-gauge marine signal kit from Orion. Useful mainly on boats, where the Coast Guard requires visual distress signals on coastal waters and someone may be watching the horizon. On land it's a fire hazard and rarely seen by rescuers; flares expire after 42 months, and some states regulate the launchers. The signal mirror, whistle and satellite messenger do the job better on land. **\~$50–100**
+- **Digital night vision**
+  - Top pick: [Nightfox Prowl](https://www.amazon.com/Nightfox-Prowl-Infrared-Monocular-Waterproof/dp/B0FR6NH6BZ). A digital monocular with true 1x magnification, so you can walk around with it and still see normally out of the other eye; it mounts on a head strap or helmet. Its built-in infrared illuminator has a long-range setting (about 130 m) and a near-invisible 940 nm setting (about 100 m), and it records 1080p video. Many cheap night vision devices have a fixed zoom that makes walking around with them disorienting, so check for 1x before buying any model. Fun for watching wildlife or checking the yard without a light, but a flashlight or lantern is better for almost everything else, and the infrared beam is visible to other night vision devices and security cameras. Nightfox has paused shipping to the US, so you may need another retailer. **\~$200–250** \[Endorsed\]
+- **Extreme flashlight**
+  - Top pick: Imalent MS32. Around 200,000 lumens with a beam that reaches more than a kilometer, from a built-in pack of eight 21700 cells. Bright enough to dazzle someone at a distance, though no light is a reliable defensive weapon. Full power lasts well under a minute before stepping down, it weighs about 6.8 lb, its cooling fan is loud, and the head gets hot enough that you should never set it down lit on anything flammable. **\$600-750; I won an eBay auction for an open-box but unused one for under $500.** \[Endorsed\]
 
 ## Also consider
 
@@ -828,13 +850,14 @@ Recovery often costs more than the supplies. Money and paperwork decide how fast
 
 ### Community
 
-Neighbors are usually the first help after a disaster. Nothing here costs money, but it multiplies everything else on the list.
+Neighbors are usually the first help after a disaster. Nothing here costs much, but it multiplies everything else on the list. Research backs this up: Daniel Aldrich's *Building Resilience* found that ties between neighbors predicted how well communities recovered better than money or aid did, and Eric Klinenberg's *Heat Wave* found that isolated people died at far higher rates in Chicago's 1995 heat wave.
 
 - Know your neighbors, and swap phone numbers
 - Learn who nearby has a generator, medical training, a chainsaw or a truck
 - Check on older or isolated neighbors
 - Join or start a neighborhood group or CERT team
 - Agree on a meeting spot for your street
+- Keep a small sharing stock, separate from your own supply: extra water bottles, rice and beans, guest toiletry kits and a spare flashlight or two. Then you can help neighbors without cutting into your household's supply or showing anyone your full stockpile. Share early in a crisis and through a neighborhood group, before things get tense, rather than becoming known as the house with everything.
 
 ### Local compute (offline AI)
 

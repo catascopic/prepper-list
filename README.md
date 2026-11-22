@@ -1,10 +1,10 @@
 # LPS Master Prepper List
 
-This is primarily a product guide for disaster preparedness supplies, organized by where you'd keep them: the go bag first, then the home, then the car, followed by situational gear and bigger purchases. (A few items appear in more than one place, since the bag and the house each need their own.) We'll also cover a few non-product topics (get to know your neighbors!) at the end of this guide. Food and clothing get only short rules of thumb, without product picks.
+This is primarily a product guide for disaster preparedness supplies, organized by where you'd keep them: the go bag first, then the home, then the car, followed by situational gear and bigger purchases. We'll then cover a few non-product topics (get to know your neighbors!) in broad strokes. Food and clothing get only short rules of thumb, without product picks.
 
 Each item in this guide has one to three product suggestions:
 
-- Top pick: The overall best option, though it may be pricey.
+- Top pick: The top of the line, though it may be pricey.
 - Mid pick: A balance of quality and cost-effectiveness.
 - Low pick: The ultra-budget option that still (probably) works well enough.
 
@@ -766,11 +766,79 @@ Fun to own and occasionally useful, but nothing here is worth buying for prepare
 - **Digital night vision**
   - Top pick: [Nightfox Prowl](https://www.amazon.com/Nightfox-Prowl-Infrared-Monocular-Waterproof/dp/B0FR6NH6BZ). A digital monocular with true 1x magnification, so you can walk around with it and still see normally out of the other eye; it mounts on a head strap or helmet. Its built-in infrared illuminator has a long-range setting (about 130 m) and a near-invisible 940 nm setting (about 100 m), and it records 1080p video. Many cheap night vision devices have a fixed zoom that makes walking around with them disorienting, so check for 1x before buying any model. Fun for watching wildlife or checking the yard without a light, but a flashlight or lantern is better for almost everything else, and the infrared beam is visible to other night vision devices and security cameras. **\~$200–250** \[Endorsed\]
 - **Extreme flashlight**
-  - Top pick: Imalent MS32. Around 200,000 lumens with a beam that reaches more than a kilometer, from a built-in pack of eight 21700 cells. Bright enough to dazzle someone at a distance, though no light is a reliable defensive weapon. Full power lasts well under a minute before stepping down, it weighs about 6.8 lb, its cooling fan is loud, and the head gets hot enough that you should never set it down lit on anything flammable. **\$600-750; I won an eBay auction for an open-box but unused one for under $500.** \[Endorsed\]
+  - Top pick: Imalent MS32. Around 200,000 lumens with a beam that reaches more than a kilometer, from a built-in pack of eight 21700 cells. Bright enough to dazzle someone at a distance, though no light is a reliable defensive weapon. Full power lasts well under a minute before stepping down, it weighs about 6.8 lb, its cooling fan is loud, and the head gets hot enough that you should never set it down lit on anything flammable. **\$600-750**; I won an eBay auction for an open-box but unused one for under $500. \[Endorsed\]
 
-## Also consider
+## Other topics (beyond stuff to buy)
 
-Categories this list doesn't stock on purpose. Each is worth a look depending on your household, skills and where you live. The item lists are starting points, not complete lists, and have no product picks.
+Some sections here deserve their own comprehensive document, but I'll do my best to at least provide an outline. Some may not be applicable to you depending on your household, skills, and where you live. Some of these lists will cover additional products to consider buying, but without any specific picks.
+
+### Community
+
+Neighbors are usually the first help after a disaster. Nothing here costs much, but it multiplies everything else on the list. Research backs this up: Daniel Aldrich's *Building Resilience* found that ties between neighbors predicted how well communities recovered better than money or aid did, and Eric Klinenberg's *Heat Wave* found that isolated people died at far higher rates in Chicago's 1995 heat wave.
+
+- Know your neighbors, and swap phone numbers
+- Learn who nearby has a generator, medical training, a chainsaw or a truck
+- Check on older or isolated neighbors
+- Join or start a neighborhood group or CERT team
+- Agree on a meeting spot for your street
+- Keep a small sharing stock, separate from your own supply: extra water bottles, rice and beans, guest toiletry kits and a spare flashlight or two. Then you can help neighbors without cutting into your household's supply or showing anyone your full stockpile. Share early in a crisis and through a neighborhood group, before things get tense, rather than becoming known as the house with everything.
+
+### Financial resilience
+
+Recovery often costs more than the supplies. Money and paperwork decide how fast you can rebuild.
+
+- An emergency fund (a common target is three to six months of expenses)
+- Cash in small bills, since card readers and ATMs need power
+- A second bank account at an unrelated bank, so one bank's outage or a frozen account doesn't cut you off from your money
+- A credit card on a different network from your main one (Mastercard if your main card is Visa)
+- A review of your insurance: standard homeowner's policies usually exclude flood and earthquake
+- Renter's insurance, if you rent
+- Copies of policies and account numbers in the document bag
+
+### Medical beyond first aid
+
+The first aid kits cover injuries. This covers keeping someone stable through an illness or a chronic condition when the pharmacy or doctor is out of reach.
+
+- A longer prescription supply, where your doctor and insurance allow (many plans permit a 90-day fill)
+- A cooler plan for medicines that need refrigeration
+- A blood pressure cuff (the pulse oximeter is in the pandemic sick-room kit under Situational)
+- Spare antibiotics, prescribed by a doctor for your household (services such as Jase Medical do this), with written instructions for when and how to take each one; don't take them without that guidance
+- A temporary dental filling kit and dental floss
+- Spare reading glasses, plus a copy of your glasses prescription
+- Hearing aid, insulin pump or other medical device batteries and supplies
+- A written list of each person's conditions, medications and doses
+
+### Infants, older relatives and pets
+
+Anyone in the household with special needs needs their own kit. These supplies are the hardest to find during a disaster.
+
+- Infants: formula (ready-to-feed needs no clean water), bottles, diapers, wipes, a carrier
+- Older relatives: mobility aids, spare canes or walkers, incontinence supplies, any comfort items
+- Medical equipment that runs on power, and a plan to keep it running: which power station or generator runs which device, and for how long. Many utilities let you register a household member who depends on powered medical equipment, which can bring outage warnings or priority help; ask yours.
+- Pets: food, medications, a leash or carrier for each, records and a recent photo
+- A list of pet-friendly shelters or hotels along your evacuation route
+
+### Skills & training
+
+Gear is only as useful as the person using it. Many of these classes are free or cheap through the Red Cross, fire departments and community colleges.
+
+- First aid and CPR
+- Stop the Bleed (teaches the tourniquet and wound packing in the trauma kit)
+- CERT (Community Emergency Response Team) training
+- Practice with the gear you own: set up the tent, run the generator, test the radios
+- Basic home repairs: shutting off utilities, patching a roof or window
+- Navigation with a map and compass
+
+### Longer-range radio
+
+The FRS walkie-talkies in the bag reach a mile or two. A GMRS license (one FCC fee covers your immediate family, no exam) allows stronger radios and repeaters; an amateur (ham) radio license takes an exam but can reach across a region or farther.
+
+- A GMRS license and GMRS radios, handheld or mobile
+- An amateur radio license (the entry-level exam is multiple choice)
+- Meshtastic radios: small, cheap LoRa radios that pair with a phone over Bluetooth to send text messages with no cell service and no license. Range is a few miles between radios, farther where there's a local mesh network; buy at least two (\~$30–60 each)
+- A local repeater list and a written family channel plan
+- External antennas and spare batteries
+- A local radio club or community emergency group to practice with
 
 ### Hunting & fishing
 
@@ -796,40 +864,6 @@ This is about producing and storing food rather than stockpiling it (the stockpi
 - A food dehydrator
 - A tested canning guide from a university extension or the USDA
 
-### Medical beyond first aid
-
-The first aid kits cover injuries. This covers keeping someone stable through an illness or a chronic condition when the pharmacy or doctor is out of reach.
-
-- A longer prescription supply, where your doctor and insurance allow (many plans permit a 90-day fill)
-- A cooler plan for medicines that need refrigeration
-- A blood pressure cuff (the pulse oximeter is in the pandemic sick-room kit under Situational)
-- Spare antibiotics, prescribed by a doctor for your household (services such as Jase Medical do this), with written instructions for when and how to take each one; don't take them without that guidance
-- A temporary dental filling kit and dental floss
-- Spare reading glasses, plus a copy of your glasses prescription
-- Hearing aid, insulin pump or other medical device batteries and supplies
-- A written list of each person's conditions, medications and doses
-
-### Infants, older relatives and pets
-
-Anyone in the household with special needs needs their own kit. These supplies are the hardest to find during a disaster.
-
-- Infants: formula (ready-to-feed needs no clean water), bottles, diapers, wipes, a carrier
-- Older relatives: mobility aids, spare canes or walkers, incontinence supplies, any comfort items
-- Medical equipment that runs on power, and a plan to keep it running: which power station or generator runs which device, and for how long. Many utilities let you register a household member who depends on powered medical equipment, which can bring outage warnings or priority help; ask yours.
-- Pets: food, medications, a leash or carrier for each, records and a recent photo
-- A list of pet-friendly shelters or hotels along your evacuation route
-
-### Longer-range radio
-
-The FRS walkie-talkies in the bag reach a mile or two. A GMRS license (one FCC fee covers your immediate family, no exam) allows stronger radios and repeaters; an amateur (ham) radio license takes an exam but can reach across a region or farther.
-
-- A GMRS license and GMRS radios, handheld or mobile
-- An amateur radio license (the entry-level exam is multiple choice)
-- Meshtastic radios: small, cheap LoRa radios that pair with a phone over Bluetooth to send text messages with no cell service and no license. Range is a few miles between radios, farther where there's a local mesh network; buy at least two (\~$30–60 each)
-- A local repeater list and a written family channel plan
-- External antennas and spare batteries
-- A local radio club or community emergency group to practice with
-
 ### Local hazards
 
 The biggest risks depend on where you live. Check your county or state emergency management site for the hazards that apply to you.
@@ -841,40 +875,6 @@ The biggest risks depend on where you live. Check your county or state emergency
 - Extreme heat: a cool-room plan, fans, shade, and a list of local cooling centers
 - Winter storms: pipe insulation, a plan for heat without power, roof snow removal. If the house will drop below freezing in an outage, let faucets drip; for a long outage, shut off the main water valve and drain the pipes so they don't burst.
 - Apartments and high-rises: when the power goes out, elevators stop, and so do the pumps that push water to upper floors. Store more water, and plan for getting people, pets and supplies up and down the stairs.
-
-### Skills & training
-
-Gear is only as useful as the person using it. Many of these classes are free or cheap through the Red Cross, fire departments and community colleges.
-
-- First aid and CPR
-- Stop the Bleed (teaches the tourniquet and wound packing in the trauma kit)
-- CERT (Community Emergency Response Team) training
-- Practice with the gear you own: set up the tent, run the generator, test the radios
-- Basic home repairs: shutting off utilities, patching a roof or window
-- Navigation with a map and compass
-
-### Financial resilience
-
-Recovery often costs more than the supplies. Money and paperwork decide how fast you can rebuild.
-
-- An emergency fund (a common target is three to six months of expenses)
-- Cash in small bills, since card readers and ATMs need power
-- A second bank account at an unrelated bank, so one bank's outage or a frozen account doesn't cut you off from your money
-- A credit card on a different network from your main one (Mastercard if your main card is Visa)
-- A review of your insurance: standard homeowner's policies usually exclude flood and earthquake
-- Renter's insurance, if you rent
-- Copies of policies and account numbers in the document bag
-
-### Community
-
-Neighbors are usually the first help after a disaster. Nothing here costs much, but it multiplies everything else on the list. Research backs this up: Daniel Aldrich's *Building Resilience* found that ties between neighbors predicted how well communities recovered better than money or aid did, and Eric Klinenberg's *Heat Wave* found that isolated people died at far higher rates in Chicago's 1995 heat wave.
-
-- Know your neighbors, and swap phone numbers
-- Learn who nearby has a generator, medical training, a chainsaw or a truck
-- Check on older or isolated neighbors
-- Join or start a neighborhood group or CERT team
-- Agree on a meeting spot for your street
-- Keep a small sharing stock, separate from your own supply: extra water bottles, rice and beans, guest toiletry kits and a spare flashlight or two. Then you can help neighbors without cutting into your household's supply or showing anyone your full stockpile. Share early in a crisis and through a neighborhood group, before things get tense, rather than becoming known as the house with everything.
 
 ### Local compute (offline AI)
 
@@ -931,10 +931,10 @@ The hard case is an outage that starts while the household is split up: one pers
 
 ## Self-defense
 
-This one is controversial, and I don't feel like I have much of an opinion on it!
+This section intentionally left blank.
 
 ---
 
 Further reading: [A Busy Person’s Guide to Disaster Preparation](https://firstscattering.com/p/a-busy-persons-guide-to-disaster)
 
-It's a great article in its own right, but it also discusses the pros and cons of buying a gun.
+It's a great article in its own right, and covers a lot of the same ground, but it also discusses the pros and cons of buying a gun.

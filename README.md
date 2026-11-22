@@ -12,7 +12,7 @@ Not every product uses all three tiers. For some items, the top pick is already 
 
 Most product links go to Amazon or Walmart. Prices change often; a \~ marks an estimate that wasn't checked against a current listing.
 
-Note: Most of this document was written by Claude, and many of the products are Claude's recommendations. Claude was asked to favor established, time-tested products, and based its picks on retailer listings and published reviews. The LPS team has reviewed Claude's picks, though may not be able to personally vouch of them.
+Note: Most of this document was written by Claude, and many of the products are Claude's recommendations. Claude was asked to favor established, time-tested products, and based its picks on retailer listings and published reviews. The LPS team has reviewed Claude's picks, though may not be able to personally vouch for them.
 
 ## Tags
 

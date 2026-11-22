@@ -63,6 +63,8 @@ Last updated Nov 21, 2026. A wave of emergency buying followed the mid-November 
 
 Everything you carry if you have to leave. Pack compact or travel-size versions where they exist (a small soap, a wrap of duct tape around a water bottle).
 
+Plan on one bag per person. Each adult carries their own, and kids old enough to walk can carry a small one with a comfort item, a snack, a headlamp, and a card with their parents' names and phone numbers in case you're separated.
+
 ### The Bag
 
 - **Backpack**
@@ -366,9 +368,11 @@ A rule of thumb rather than product picks.
 - **What to store:** shelf-stable food you already eat, rotated into normal meals so nothing expires: "store what you eat, eat what you store."
 - **Mind the water:** food that needs cooking water eats into your water supply. Rice, pasta and freeze-dried meals all need it (a freeze-dried meal takes about 2 cups), while canned food brings its own water. Salty food makes you thirstier. If water is tight, lean toward canned and no-cook food.
 - **Pets:** count their food and water too.
+- **In an outage, keep the fridge and freezer closed.** An unopened fridge keeps food safe for about 4 hours, a full freezer for about 48 (24 if half full), per the USDA. Fill empty freezer space with jugs of water: they help it stay cold and double as drinking water. Eat from the fridge first, then the freezer, then the pantry.
 
 ### Light & power
 
+- Avoid candles: house fires from candles rise during power outages. Everything on this list is LED. If you use candles anyway, never leave one burning unattended or near anything that can catch.
 - **Flashlights / headlamps (one per person)**
   - Top pick: the bag's AA and AAA picks (Acebeam Pokelit AA, Black Diamond Spot 400) for each person, so the whole household shares one battery stock. **\~$25–35 per flashlight, $41–60 per headlamp**
   - Low pick: an Energizer Vision HD Performance Metal flashlight and an Energizer Universal headlamp for each person; buying several is where the savings add up. **\~$13 per flashlight, \~$8 per headlamp** \[Pareto\]
@@ -594,6 +598,8 @@ Gear for living outdoors, or making do without power, for days at a time.
 
 ### Comfort & morale
 
+In a long outage, boredom and stress take a real toll, especially on kids. Keep regular meal and sleep times, give kids small jobs, and keep their comfort items handy.
+
 - Books
 - **Board games**
   - Top pick: a few classics that play without power and hold up to repeat plays: a chess and checkers set, Catan, Ticket to Ride and Codenames. **\~$15–50 each** \[Lindy\]
@@ -626,6 +632,8 @@ Comfort and convenience items. Buy these last, since something you already own c
 ## Car kit
 
 Lives in the vehicle.
+
+- Keep the tank at least half full. Gas stations need power to pump, so in an outage the fuel in your tank may be all you get. For an electric car, keep it above about half charge; some EVs can also power appliances or a house, which is worth knowing if you have one.
 
 - **Portable jump starter**
   - Top pick: [NOCO Boost Plus GB40](https://www.walmart.com/ip/46605770). 1,000-amp lithium pack rated for gas engines up to 6 liters; up to 20 jumps per charge, spark-proof and reverse-polarity protected, doubles as a USB power bank and flashlight. Recharge it every few months. Often $60–80 on sale. **$60–125** \[Schelling\]
@@ -807,7 +815,7 @@ Anyone in the household with special needs needs their own kit. These supplies a
 
 - Infants: formula (ready-to-feed needs no clean water), bottles, diapers, wipes, a carrier
 - Older relatives: mobility aids, spare canes or walkers, incontinence supplies, any comfort items
-- Medical equipment that runs on power, and a plan to keep it running
+- Medical equipment that runs on power, and a plan to keep it running: which power station or generator runs which device, and for how long. Many utilities let you register a household member who depends on powered medical equipment, which can bring outage warnings or priority help; ask yours.
 - Pets: food, medications, a leash or carrier for each, records and a recent photo
 - A list of pet-friendly shelters or hotels along your evacuation route
 
@@ -831,7 +839,8 @@ The biggest risks depend on where you live. Check your county or state emergency
 - Wildfire: a cleared defensible space around the house, ember-resistant vents, a go-bag by the door
 - Hurricane: window protection, a generator plan, and a known evacuation zone
 - Extreme heat: a cool-room plan, fans, shade, and a list of local cooling centers
-- Winter storms: pipe insulation, a plan for heat without power, roof snow removal
+- Winter storms: pipe insulation, a plan for heat without power, roof snow removal. If the house will drop below freezing in an outage, let faucets drip; for a long outage, shut off the main water valve and drain the pipes so they don't burst.
+- Apartments and high-rises: when the power goes out, elevators stop, and so do the pumps that push water to upper floors. Store more water, and plan for getting people, pets and supplies up and down the stairs.
 
 ### Skills & training
 
@@ -887,6 +896,8 @@ Nothing to buy here, but the gear depends on it.
 - Take a first aid and Stop the Bleed class (the tourniquet and hemostatic gauze need practice)
 - Find and label the gas, water and electric shutoffs
 - Sign up for local emergency alerts
+- Prepare your phone: set up Medical ID (iPhone) or Emergency information (Android) so conditions, allergies and contacts show on the lock screen; learn its low-power mode; and write down the AM and FM frequencies of your local emergency broadcast stations
+- List your trusted information sources in advance: the local emergency radio station, NOAA, and your county's emergency management office. In a confusing crisis, rumors and fakes spread fast, so be skeptical of anything you can't trace back to an official source.
 - Set a reminder every six months to rotate water, medications and batteries, and to swap the go bag's clothes for the season
 - Keep sturdy shoes and a flashlight by each bed; after an earthquake or storm, the floor may be covered in broken glass
 - Pick a family code word, so you can tell a real call for help from an AI voice clone; share it in person rather than in writing

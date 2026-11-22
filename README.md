@@ -93,14 +93,14 @@ Standardize on AA and AAA so one battery stock covers the whole bag.
 - **Flashlight**
   - Top pick: [Streamlight ProTac 2AA](https://www.walmart.com/ip/17160085). Police and EMS staple; aircraft-aluminum body, runs on two AAs; limited lifetime warranty. The 2AA-X USB version adds a rechargeable pack and still takes AAs. **$45–60** \[Schelling\]
   - Mid pick: [ThruNite Archer 2A V3](https://www.amazon.com/dp/B08H1NTK82). 500 lumens from two AAs, so it shares the bag's battery stock; dual switches, IPX8 waterproof, pen-size and under 2 oz. Not rechargeable, so there's no built-in battery to age out or run flat in storage. **$18–30** \[Schelling\] \[Pareto\]
-  - Alternative: [Wurkkos FC11C](https://wurkkos.com/products/wurkkos-fc11c-nichia-519a-buck-circuit-flashlight). 1,200 lumens, high-CRI Nichia 519A, USB-C charging, magnetic tail; the light enthusiasts most often recommend to non-enthusiasts. A great light, but it runs on a rechargeable 18650 cell, so it falls outside the AA/AAA plan; pack a charged spare cell. **$20** \[Pareto\]
+  - Alternative: [Wurkkos FC11C](https://wurkkos.com/products/wurkkos-fc11c-nichia-519a-buck-circuit-flashlight). 1,200 lumens, high-CRI Nichia 519A, USB-C charging, magnetic tail; the light enthusiasts most often recommend to non-enthusiasts. A great light, but it runs on a rechargeable 18650 cell, so it falls outside the AA/AAA plan; pack a charged spare cell. **$20** \[Pareto\] \[Endorsed\]
 - **Headlamp**
   - Top pick: [Black Diamond Spot 400](https://www.amazon.com/BLACK-DIAMOND-Brightness-dual-fuel-compatibility/dp/B0H1R7G7VN). The Spot line has been a go-to headlamp for nearly 20 years; runs on 3 AAAs or an optional rechargeable; red night mode; IPX8 waterproof. **$41–60** \[Lindy\] \[Schelling\]
   - Mid pick: [Black Diamond Astro 300](https://www.amazon.com/BLACK-DIAMOND-Brightness-backpacking-emergencies/dp/B0H5RK4Z3L). Single lens and single switch, 300 lumens, runs on 3 AAAs or Black Diamond's rechargeable battery. No red light mode, and the battery door is fiddly, so load it once and leave it. $19–25 \[Pareto\]
   - Low pick: [Energizer Universal 2-pack](https://www.amazon.com/Energizer-Universal-Lightweight-Emergency-Batteries/dp/B08WC2VYMS). Two basic headlamps with a red night mode, about 100 lumens each on AAA batteries (included), so they fit the battery plan; light enough to toss one in every bag and drawer. The head doesn't tilt, so the beam points wherever you're facing, and it's dimmer than the picks above. **\~$15 per 2-pack** \[Pareto\]
 - **Batteries**
   - Top pick: [Energizer Ultimate Lithium](https://www.walmart.com/ip/14317216359) (AA and AAA). Rated to hold charge up to 20 years in storage, leak-proof, works from −40°F to 140°F, a third lighter than alkaline. **$20–25 per 8 AA** \[Schelling\]
-  - Low pick: Amazon Basics alkaline in bulk. A fraction of the cost per cell, but alkalines can leak, hold charge for about half as long, and lose capacity below freezing. Store them outside your devices and replace them every few years. **\~$1 or less per cell** \[Pareto\]
+  - Low pick: Amazon Basics alkaline in bulk. A fraction of the cost per cell, but alkalines can leak, hold charge for about half as long, and lose capacity below freezing. Store them outside your devices and replace them every few years. **\~$1 or less per cell** \[Pareto\] \[Endorsed\]
 - **Glow sticks**
   - Top pick: [Cyalume SnapLight 6" green, 12-hour](https://www.amazon.com/Cyalume-Green-Glow-Sticks-SnapLight/dp/B004NBZLJ2). The original chemical light stick and US military standard issue; individually foil-wrapped, 5-year shelf life, no spark or flame. Buy a 10-pack. **$17 per 10-pack** \[Lindy\] \[Schelling\]
 
@@ -130,9 +130,9 @@ Standardize on USB-C where you can, so one cable type and the power bank charge 
   - Top pick: YubiKey 5 NFC (or 5C NFC for USB-C), bought directly from Yubico. Protects your email, bank and password manager from phishing and account takeover; NFC lets it work with a phone. Register both keys on every account, then keep one on your keyring and one in the safe at home, so losing one doesn't lock you out. **\~$50–55 each** \[Schelling\]
 - **Calculator**
   - Top pick: [Casio HS-8VA](https://www.amazon.com/Casio-HS8VA-Standard-Function-Calculator/dp/B001GXM68Y). Classic Casio pocket calculator with solar plus battery backup. **$5–7** \[Lindy\] \[Pareto\]
-  - Alternative: TI-83/84+ family. You probably already have one lying around somewhere. Otherwise, you can easily buy one used on eBay. **~$45** \[Lindy\]
+  - Alternative: TI-83/84+ family. You probably already have one lying around somewhere. Otherwise, you can easily buy one used on eBay. **~$45** \[Lindy\] \[Endorsed\]
 - **Watch**
-  - Top pick: [Casio F-91W](https://www.walmart.com/ip/192953947). The simple digital watch sold since 1989; a battery lasts about 7 years, with an alarm, stopwatch and a small backlight. Keeps the time and date when the phone is dead or switched off to save power. The backlight is dim and it's only splash-resistant. **$22** \[Lindy\] \[Schelling\] \[Pareto\]
+  - Top pick: [Casio F-91W](https://www.walmart.com/ip/192953947). The simple digital watch sold since 1989; a battery lasts about 7 years, with an alarm, stopwatch and a small backlight. Keeps the time and date when the phone is dead or switched off to save power. The backlight is dim and it's only splash-resistant. **$22** \[Lindy\] \[Schelling\] \[Pareto\] \[Endorsed\]
 - **Earbuds / headphones**
   - Top pick: [Apple EarPods (USB-C or 3.5mm)](https://www.amazon.com/Apple-EarPods-Headphones-Built-Control/dp/B0DCH8VDXF). Wired, so no battery to charge or die; cheap and widely available. **\~$19** \[Schelling\]
   - Low pick: [Sony ZX Series Headphones](https://www.amazon.com/Sony-MDRZX110-BLK-Stereo-Headphones/dp/B00NJ2M33I). Wired on-ear headphones, sold for over a decade and widely reviewed; the earcups swivel flat to pack, and the closed back muffles a noisy shelter. Bulkier than earbuds, no microphone, and a 3.5mm plug, so pack a USB-C adapter for phones without a headphone jack. **\~$15** \[Schelling\]
@@ -141,9 +141,9 @@ Standardize on USB-C where you can, so one cable type and the power bank charge 
 
 - **NOAA weather radio (a compact hand-crank model)**
   - Top pick: [Midland ER310](https://midlandusa.com/products/er310-portable-emergency-crank-weather-radio). Midland has made weather radios for decades; NOAA alerts plus AM/FM, charged by hand crank, solar or USB, and it also runs on 6 AAs, so it fits the battery plan; has a flashlight and phone-charging port. **$90** \[Lindy\] \[Schelling\]
-  - Low pick: [RunningSnail hand-crank radio](https://runningsnailstore.com/#products). Small and genuinely useful, with NOAA, crank and solar, but build quality and the speaker are a step down. **$???** \[Pareto\]
+  - Low pick: [RunningSnail hand-crank radio](https://runningsnailstore.com/#products). Small and genuinely useful, with NOAA, crank and solar, but build quality and the speaker are a step down. **$???** \[Pareto\] \[Endorsed\]
 - **Walkie-talkies**
-  - Top pick: [Motorola Talkabout T802](https://www.walmart.com/ip/16070721796) (2-pack). License-free FRS, weatherproof (IP54), NOAA weather alerts; charges over USB-C, so the power bank can top it up, and also runs on standard AAs. Bluetooth pairs it with Motorola's Talkabout app for off-grid messaging and location sharing, but the radio works fine without it. Real-world range is a mile or two, not the 35 miles on the box. **$100 per pair** \[Schelling\]
+  - Top pick: [Motorola Talkabout T802](https://www.walmart.com/ip/16070721796) (2-pack). License-free FRS, weatherproof (IP54), NOAA weather alerts; charges over USB-C, so the power bank can top it up, and also runs on standard AAs. Bluetooth pairs it with Motorola's Talkabout app for off-grid messaging and location sharing, but the radio works fine without it. Real-world range is a mile or two, not the 35 miles on the box. **$100 per pair** \[Schelling\] \[Endorsed\]
   - Low pick: [Midland X-Talker T51VP3](https://www.walmart.com/ip/53889619) (2-pack). Same license-free FRS channels, with rechargeable packs included; NOAA weather scan rather than automatic alerts, and less weatherproof. Midland has made consumer radios for decades. **$55 per pair** \[Lindy\] \[Pareto\]
 - **Whistle**
   - Top pick: [Fox 40 Classic](https://www.walmart.com/ip/46304131). The pealess whistle used by search and rescue and referees since the 1980s; 115 dB, works wet, nothing inside to freeze or jam. **$7–9** \[Lindy\] \[Schelling\] \[Pareto\]
@@ -338,7 +338,7 @@ What sheltering in place needs beyond the bag, for a couple of weeks without uti
 ### Water
 
 - **Water storage containers (food-grade jugs; plan on 1 gallon per person per day)**
-  - Top pick: [Reliance Aqua-Tainer 7-gallon](https://www.walmart.com/ip/4-pack-Reliance-Aqua-Tainer-Water-Container-7-Gallon/17887457033). Rigid, stackable, food-grade, with a reversible spigot cap; the standard home water jug for decades. A full one weighs about 60 lb. **$15–30 each** \[Lindy\] \[Schelling\]
+  - Top pick: [Reliance Aqua-Tainer 7-gallon](https://www.walmart.com/ip/4-pack-Reliance-Aqua-Tainer-Water-Container-7-Gallon/17887457033). Rigid, stackable, food-grade, with a reversible spigot cap; the standard home water jug for decades. A full one weighs about 60 lb. **$15–30 each** \[Lindy\] \[Schelling\] \[Endorsed\]
   - Low pick: washed and refilled 2-liter soda bottles. Sturdy and free; avoid milk jugs, which break down and leak. **Free** \[Pareto\]
 - Bleach (plain, unscented)
 - **5-gallon buckets**
@@ -471,7 +471,7 @@ Good to have access to when you are staying put. Buy these after the essentials.
 Load offline content while you still have internet, and recharge or test devices every few months.
 
 - **Rechargeable batteries and charger**
-  - Top pick: [Panasonic Eneloop](https://www.walmart.com/ip/39111777) AA and AAA, with a Panasonic charger (or the Power Pack kit, which adds C and D adapters). The standard low-self-discharge NiMH cell, rechargeable about 2,100 times and holding around 70% charge after 10 years in storage. **$28 per 8 AA, \~$40–55 for a kit with charger** \[Lindy\] \[Schelling\]
+  - Top pick: [Panasonic Eneloop](https://www.walmart.com/ip/39111777) AA and AAA, with a Panasonic charger (or the Power Pack kit, which adds C and D adapters). The standard low-self-discharge NiMH cell, rechargeable about 2,100 times and holding around 70% charge after 10 years in storage. **$28 per 8 AA, \~$40–55 for a kit with charger** \[Lindy\] \[Schelling\] \[Endorsed\]
 - **Battery tester**
   - Top pick: [D-FantiX battery tester](https://www.walmart.com/ip/722723866). Tests AA, AAA, C, D, 9V and button cells under a small load, so you can sort the good cells from the dead ones in the battery stock instead of guessing. **$13** \[Pareto\]
 - **Surge protectors**
@@ -491,7 +491,7 @@ Load offline content while you still have internet, and recharge or test devices
   - Mid pick: a WD My Passport or Seagate portable hard drive (2TB). Slower and more fragile if dropped, but far more storage per dollar. **\~$70–100** \[Pareto\]
 - **Multimeter**
   - Top pick: [Fluke 101](https://www.amazon.com/Fluke-FLUKE-101-Digital-Multimeter/dp/B00HE6MIJY?crid=GT33GTOJDZ2R). Fluke's basic pocket meter, CAT III 600V safety rated, for checking batteries, outlets and generator output; can't measure current. **$70-77** \[Lindy\]
-  - Low pick: [AstroAI Digital Multimeter, TRMS 4000](https://www.amazon.com/dp/B08DHHJPS1). A popular budget meter that handles batteries, continuity, outlets and generator output; true-RMS reads correctly on generator and inverter power, and unlike the Fluke 101 it measures current, so you can see what a device draws from the power station. Budget meters' printed safety ratings are less trustworthy than Fluke's, so keep it to batteries and outlets, not work at the breaker panel. Flimsier probe leads, and it won't last as long. **\~$18-26** \[Pareto\] \[Owned\]
+  - Low pick: [AstroAI Digital Multimeter, TRMS 4000](https://www.amazon.com/dp/B08DHHJPS1). A popular budget meter that handles batteries, continuity, outlets and generator output; true-RMS reads correctly on generator and inverter power, and unlike the Fluke 101 it measures current, so you can see what a device draws from the power station. Budget meters' printed safety ratings are less trustworthy than Fluke's, so keep it to batteries and outlets, not work at the breaker panel. Flimsier probe leads, and it won't last as long. **\~$18-26** \[Pareto\] \[Endorsed\]
 
 ### Tools
 
@@ -558,7 +558,7 @@ Gear for living outdoors, or making do without power, for days at a time.
 
 - **Tent**
   - Top pick: [REI Co-op Half Dome 2 or 3](https://www.rei.com/product/243702/rei-co-op-half-dome-2-tent-with-footprint). A long-running, well-built backpacking tent with a full rainfly; REI's return policy backs it. **\~$280–380**
-  - Mid pick: [Coleman Sundome 4](https://www.walmart.com/ip/Coleman-Sundome-4-Person-Camping-Tent/5499826626). The classic budget dome tent, easy to set up; partial rainfly and average materials, so it handles moderate weather, not storms. **$82–120** \[Lindy\] \[Schelling\] \[Pareto\]
+  - Mid pick: [Coleman Sundome 4](https://www.walmart.com/ip/Coleman-Sundome-4-Person-Camping-Tent/5499826626). The classic budget dome tent, easy to set up; partial rainfly and average materials, so it handles moderate weather, not storms. **$82–120** \[Lindy\] \[Schelling\] \[Pareto\] \[Endorsed\]
 - **Sleeping pad**
   - Top pick: [Therm-a-Rest Z Lite Sol](https://www.amazon.com/Therm-Rest-Ultralight-Backpacking-Mattress/dp/B005I6R0WC). Folding closed-cell foam that can't puncture and insulates from the cold ground. **\~$50–60** \[Lindy\] \[Schelling\]
   - Low pick: a blue closed-cell foam pad from Walmart. Bulkier and less cushioned, but just as puncture-proof. **\~$10–15** \[Pareto\]
@@ -748,7 +748,7 @@ Fun to own and occasionally useful, but nothing here is worth buying for prepare
 - **Flare gun (on the water)**
   - No single pick: a 12-gauge marine signal kit from Orion. Useful mainly on boats, where the Coast Guard requires visual distress signals on coastal waters and someone may be watching the horizon. On land it's a fire hazard and rarely seen by rescuers; flares expire after 42 months, and some states regulate the launchers. The signal mirror, whistle and satellite messenger do the job better on land. **\~$50–100**
 - **Digital night vision**
-  - Top pick: [Nightfox Prowl](https://www.amazon.com/Nightfox-Prowl-Infrared-Monocular-Waterproof/dp/B0FR6NH6BZ). A digital monocular with true 1x magnification, so you can walk around with it and still see normally out of the other eye; it mounts on a head strap or helmet. Its built-in infrared illuminator has a long-range setting (about 130 m) and a near-invisible 940 nm setting (about 100 m), and it records 1080p video. Many cheap night vision devices have a fixed zoom that makes walking around with them disorienting, so check for 1x before buying any model. Fun for watching wildlife or checking the yard without a light, but a flashlight or lantern is better for almost everything else, and the infrared beam is visible to other night vision devices and security cameras. Nightfox has paused shipping to the US, so you may need another retailer. **\~$200–250** \[Endorsed\]
+  - Top pick: [Nightfox Prowl](https://www.amazon.com/Nightfox-Prowl-Infrared-Monocular-Waterproof/dp/B0FR6NH6BZ). A digital monocular with true 1x magnification, so you can walk around with it and still see normally out of the other eye; it mounts on a head strap or helmet. Its built-in infrared illuminator has a long-range setting (about 130 m) and a near-invisible 940 nm setting (about 100 m), and it records 1080p video. Many cheap night vision devices have a fixed zoom that makes walking around with them disorienting, so check for 1x before buying any model. Fun for watching wildlife or checking the yard without a light, but a flashlight or lantern is better for almost everything else, and the infrared beam is visible to other night vision devices and security cameras. **\~$200–250** \[Endorsed\]
 - **Extreme flashlight**
   - Top pick: Imalent MS32. Around 200,000 lumens with a beam that reaches more than a kilometer, from a built-in pack of eight 21700 cells. Bright enough to dazzle someone at a distance, though no light is a reliable defensive weapon. Full power lasts well under a minute before stepping down, it weighs about 6.8 lb, its cooling fan is loud, and the head gets hot enough that you should never set it down lit on anything flammable. **\$600-750; I won an eBay auction for an open-box but unused one for under $500.** \[Endorsed\]
 

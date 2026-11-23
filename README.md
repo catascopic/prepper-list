@@ -151,7 +151,7 @@ Standardize on USB-C where you can, so one cable type and the power bank charge 
 
 - **NOAA weather radio (a compact hand-crank model)**
   - Top pick: [Midland ER310](https://midlandusa.com/products/er310-portable-emergency-crank-weather-radio). Midland has made weather radios for decades; NOAA alerts plus AM/FM, charged by hand crank, solar or USB, and it also runs on 6 AAs, so it fits the battery plan; has a flashlight and phone-charging port. **$90** \[Lindy\] \[Schelling\]
-  - Low pick: [RunningSnail hand-crank radio](https://runningsnailstore.com/#products). Small and genuinely useful, with NOAA, crank and solar, but build quality and the speaker are a step down. **$???** \[Pareto\] \[Endorsed\]
+  - Low pick: [RunningSnail hand-crank radio](https://www.amazon.com/Emergency-Radio%EF%BC%8C4000mAh-Solar-Portable-Flashlight-Lamp%EF%BC%8CCell/dp/B083TLZN7G). Small and genuinely useful, with NOAA, crank and solar, but build quality and the speaker are a step down. **$45** \[Pareto\] \[Endorsed\]
 - **Walkie-talkies**
   - Top pick: [Motorola Talkabout T802](https://www.walmart.com/ip/16070721796) (2-pack). License-free FRS, weatherproof (IP54), NOAA weather alerts; charges over USB-C, so the power bank can top it up, and also runs on standard AAs. Bluetooth pairs it with Motorola's Talkabout app for off-grid messaging and location sharing, but the radio works fine without it. Real-world range is a mile or two, not the 35 miles on the box. **$100 per pair** \[Schelling\] \[Endorsed\]
   - Low pick: [Midland X-Talker T51VP3](https://www.walmart.com/ip/53889619) (2-pack). Same license-free FRS channels, with rechargeable packs included; NOAA weather scan rather than automatic alerts, and less weatherproof. Midland has made consumer radios for decades. **$55 per pair** \[Lindy\] \[Pareto\]
@@ -515,7 +515,7 @@ Pick one cordless battery platform and stick with it, so the same batteries run 
   - Top pick: [DeWalt DCD771C2](https://www.walmart.com/ip/117997152) 20V MAX kit. Two batteries, charger and bag; DeWalt's long-running compact drill, 3-year warranty. Often about $99 on sale. **$99–179** \[Schelling\]
   - Mid pick: a Ryobi ONE+ 18V drill kit. Ryobi has kept its batteries compatible since 1996, and the tool range is huge and cheap. **\~$60–80** \[Lindy\] \[Pareto\]
 - **Staple gun and staples (for tarps and plastic sheeting)**
-  - Top pick: [Arrow T50 staple gun](https://www.amazon.com/Arrow-Pneumatic-Upholstery-Woodworking-Professional/dp/B099NLLL1S). An all-steel design sold for decades, and T50 staples are everywhere. **\~$25–35** \[Lindy\] \[Schelling\]
+  - Top pick: [Arrow T50 staple gun](https://www.amazon.com/Arrow-Fastener-T50-Heavy-Staple/dp/B00002ND61). An all-steel design sold for decades, and T50 staples are everywhere. **\~$25–35** \[Lindy\] \[Schelling\]
 - Assorted nails and screws
 - **Tape measure**
   - Top pick: [Stanley FatMax 25 ft](https://www.amazon.com/Stanley-Tools-33-725-25-Feet-Measure/dp/B00002PV66). Wide blade that stays stiff when extended. **\~$20–25** \[Schelling\]
